@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extras.DynamicProxy" Version="7.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ValidationAspect.Demo.Core\ValidationAspect.Demo.Core.csproj" />
+    <ProjectReference Include="..\ValidationAspect.Demo.DataAccess\ValidationAspect.Demo.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>
