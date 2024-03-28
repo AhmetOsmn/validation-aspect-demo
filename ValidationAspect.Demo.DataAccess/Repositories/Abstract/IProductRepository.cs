@@ -1,6 +1,6 @@
-﻿using ValidationAspect.Demo.DataAccess.Entities;
+﻿using Aspect.Demo.DataAccess.Entities;
 
-namespace ValidationAspect.Demo.DataAccess.Repositories.Abstract
+namespace Aspect.Demo.DataAccess.Repositories.Abstract
 {
     public interface IProductRepository
     {

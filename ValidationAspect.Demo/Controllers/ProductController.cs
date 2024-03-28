@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ValidationAspect.Demo.Business.DTOs;
-using ValidationAspect.Demo.Business.Services.Abstract;
+using Aspect.Demo.Business.DTOs;
+using Aspect.Demo.Business.Services.Abstract;
 
-namespace ValidationAspect.Demo.Controllers
+namespace Aspect.Demo.Controllers
 {
     [ApiController]
     [Route("[controller]")]

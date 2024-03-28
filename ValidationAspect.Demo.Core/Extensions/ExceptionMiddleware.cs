@@ -2,9 +2,9 @@
 using FluentValidation.Results;
 using Microsoft.AspNetCore.Http;
 using System.Net;
-using ValidationAspect.Demo.Core.Models.Error;
+using Aspect.Demo.Core.Models.Error;
 
-namespace ValidationAspect.Demo.Core.Extensions
+namespace Aspect.Demo.Core.Extensions
 {
     public class ExceptionMiddleware
     {

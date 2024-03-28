@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace ValidationAspect.Demo.Core.Models.Error
+namespace Aspect.Demo.Core.Models.Error
 {
     public class ErrorDetails
     {

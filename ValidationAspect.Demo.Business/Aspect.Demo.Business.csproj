@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ValidationAspect.Demo.Core\ValidationAspect.Demo.Core.csproj" />
-    <ProjectReference Include="..\ValidationAspect.Demo.DataAccess\ValidationAspect.Demo.DataAccess.csproj" />
+    <ProjectReference Include="..\ValidationAspect.Demo.Core\Aspect.Demo.Core.csproj" />
+    <ProjectReference Include="..\ValidationAspect.Demo.DataAccess\Aspect.Demo.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>

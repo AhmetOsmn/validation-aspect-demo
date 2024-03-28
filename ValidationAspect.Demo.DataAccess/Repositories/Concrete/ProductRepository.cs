@@ -1,7 +1,7 @@
-﻿using ValidationAspect.Demo.DataAccess.Entities;
-using ValidationAspect.Demo.DataAccess.Repositories.Abstract;
+﻿using Aspect.Demo.DataAccess.Entities;
+using Aspect.Demo.DataAccess.Repositories.Abstract;
 
-namespace ValidationAspect.Demo.DataAccess.Repositories.Concrete
+namespace Aspect.Demo.DataAccess.Repositories.Concrete
 {
     public class ProductRepository : IProductRepository
     {

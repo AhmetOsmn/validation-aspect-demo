@@ -1,7 +1,7 @@
 ﻿using FluentValidation;
-using ValidationAspect.Demo.Business.DTOs;
+using Aspect.Demo.Business.DTOs;
 
-namespace ValidationAspect.Demo.Business.Validation.FluentValidation.Product
+namespace Aspect.Demo.Business.Validation.FluentValidation.Product
 {
     public class UpdateProductDtoValidator : AbstractValidator<UpdateProductDto>
     {

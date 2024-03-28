@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Builder;
 
-namespace ValidationAspect.Demo.Core.Extensions
+namespace Aspect.Demo.Core.Extensions
 {
     public static class ExceptionMiddlewareExtensions
     {

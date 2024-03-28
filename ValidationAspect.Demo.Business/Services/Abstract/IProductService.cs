@@ -1,6 +1,6 @@
-﻿using ValidationAspect.Demo.Business.DTOs;
+﻿using Aspect.Demo.Business.DTOs;
 
-namespace ValidationAspect.Demo.Business.Services.Abstract
+namespace Aspect.Demo.Business.Services.Abstract
 {
     public interface IProductService
     {

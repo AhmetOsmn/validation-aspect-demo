@@ -1,10 +1,10 @@
 ﻿using Autofac;
 using Autofac.Extras.DynamicProxy;
 using Castle.DynamicProxy;
-using ValidationAspect.Demo.Core.Utilities.Interceptors;
+using Aspect.Demo.Core.Utilities.Interceptors;
 using Module = Autofac.Module;
 
-namespace ValidationAspect.Demo.Business
+namespace Aspect.Demo.Business
 {
     public class AutofacBusinessModule : Module
     {

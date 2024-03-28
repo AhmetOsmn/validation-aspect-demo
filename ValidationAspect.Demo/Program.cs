@@ -4,13 +4,13 @@ using Autofac.Extensions.DependencyInjection;
 using Autofac.Extras.DynamicProxy;
 using Castle.DynamicProxy;
 using System.Reflection;
-using ValidationAspect.Demo.Business;
-using ValidationAspect.Demo.Business.Services.Abstract;
-using ValidationAspect.Demo.Core.Aspects.Autofac.Validation;
-using ValidationAspect.Demo.Core.Extensions;
-using ValidationAspect.Demo.Core.Utilities.Interceptors;
-using ValidationAspect.Demo.DataAccess.Repositories.Abstract;
-using ValidationAspect.Demo.DataAccess.Repositories.Concrete;
+using Aspect.Demo.Business;
+using Aspect.Demo.Business.Services.Abstract;
+using Aspect.Demo.Core.Aspects.Autofac.Validation;
+using Aspect.Demo.Core.Extensions;
+using Aspect.Demo.Core.Utilities.Interceptors;
+using Aspect.Demo.DataAccess.Repositories.Abstract;
+using Aspect.Demo.DataAccess.Repositories.Concrete;
 
 namespace ValidationAspect.Demo
 {

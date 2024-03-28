@@ -1,4 +1,4 @@
-﻿namespace ValidationAspect.Demo.DataAccess.Entities
+﻿namespace Aspect.Demo.DataAccess.Entities
 {
     public class Product
     {

@@ -1,6 +1,6 @@
 ﻿using FluentValidation;
 
-namespace ValidationAspect.Demo.Core.CrossCuttingConcerns.Validation
+namespace Aspect.Demo.Core.CrossCuttingConcerns.Validation
 {
     public static class ValidationTool
     {

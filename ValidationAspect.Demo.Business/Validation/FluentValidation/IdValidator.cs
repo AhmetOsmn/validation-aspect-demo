@@ -1,6 +1,6 @@
 ﻿using FluentValidation;
 
-namespace ValidationAspect.Demo.Business.Validation.FluentValidation
+namespace Aspect.Demo.Business.Validation.FluentValidation
 {
     public class IdValidator: AbstractValidator<int>
     {

@@ -1,11 +1,11 @@
-﻿using ValidationAspect.Demo.Business.DTOs;
-using ValidationAspect.Demo.Business.Validation.FluentValidation;
-using ValidationAspect.Demo.Business.Validation.FluentValidation.Product;
-using ValidationAspect.Demo.Core.Aspects.Autofac.Validation;
-using ValidationAspect.Demo.DataAccess.Entities;
-using ValidationAspect.Demo.DataAccess.Repositories.Abstract;
+﻿using Aspect.Demo.Business.DTOs;
+using Aspect.Demo.Business.Validation.FluentValidation;
+using Aspect.Demo.Business.Validation.FluentValidation.Product;
+using Aspect.Demo.Core.Aspects.Autofac.Validation;
+using Aspect.Demo.DataAccess.Entities;
+using Aspect.Demo.DataAccess.Repositories.Abstract;
 
-namespace ValidationAspect.Demo.Business.Services.Abstract
+namespace Aspect.Demo.Business.Services.Abstract
 {
     public class ProductService : IProductService
     {

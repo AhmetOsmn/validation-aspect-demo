@@ -1,6 +1,6 @@
 ﻿using Castle.DynamicProxy;
 
-namespace ValidationAspect.Demo.Core.Utilities.Interceptors
+namespace Aspect.Demo.Core.Utilities.Interceptors
 {
     public abstract class MethodInterceptionAttribute : MethodInterceptionBaseAttribute
     {

@@ -1,9 +1,9 @@
 ﻿using Castle.DynamicProxy;
 using FluentValidation;
-using ValidationAspect.Demo.Core.CrossCuttingConcerns.Validation;
-using ValidationAspect.Demo.Core.Utilities.Interceptors;
+using Aspect.Demo.Core.CrossCuttingConcerns.Validation;
+using Aspect.Demo.Core.Utilities.Interceptors;
 
-namespace ValidationAspect.Demo.Core.Aspects.Autofac.Validation
+namespace Aspect.Demo.Core.Aspects.Autofac.Validation
 {
     public class ValidationAspectAttribute : MethodInterceptionAttribute
     {
