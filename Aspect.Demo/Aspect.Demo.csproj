@@ -13,8 +13,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\ValidationAspect.Demo.Business\Aspect.Demo.Business.csproj" />
-		<ProjectReference Include="..\ValidationAspect.Demo.Core\Aspect.Demo.Core.csproj" />
+		<ProjectReference Include="..\Aspect.Demo.Business\Aspect.Demo.Business.csproj" />
+		<ProjectReference Include="..\Aspect.Demo.Core\Aspect.Demo.Core.csproj" />
 	</ItemGroup>
 
 </Project>
